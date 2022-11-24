@@ -31,18 +31,18 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1212 Commits
+                            1214 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,14 +233,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="114.87869754293112" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="114.87869754293112" y="0" width="93.22536869982126" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="208.1040662427524" y="0" width="59.26896870327528" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="267.37303494602764" y="0" width="49.14536965631856" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="316.5184046023462" y="0" width="38.97712244427573" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="355.49552704662193" y="0" width="35.899530917779096" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="391.395057964401" y="0" width="35.40377969210086" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="426.79883765650186" y="0" width="33.20116234349811" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="114.86050135764576" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="114.86050135764576" y="0" width="93.21060228865504" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="208.0711036463008" y="0" width="59.25958080839778" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="267.3306844546986" y="0" width="49.137585286619824" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="316.4682697413184" y="0" width="38.97094867179175" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="355.43921841311015" y="0" width="35.96670621555038" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="391.40592462866056" y="0" width="35.398171918433" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="426.80409654709354" y="0" width="33.19590345290644" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
